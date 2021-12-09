@@ -30,6 +30,25 @@ function Sidebar() {
                     <p>Your Episodes</p>
                 </button>
             <hr className='border-t-[0.1px] border-gray-900'/>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            <p className='text-gray-500 hover:text-white cursor-pointer'>Playlist name...</p>
+            
             </div>
         </div>
     )
